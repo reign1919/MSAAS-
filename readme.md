@@ -18,8 +18,11 @@ MSAAS_Python_Project/
 └── attendance_data.txt  # Auto-generated data file
 ```
 ## How to Run (manual, non-git)
-1. Open terminal in the folder
-2. Run:
+1. Click on GREEN "CODE" button
+2. Click download zip folder
+3. Extract folder
+4. Open terminal in the folder
+5. Run:
    python main.py
 ## Features
 - **Enter Attendance**: Day-wise (P/A/H) or quick totals entry
