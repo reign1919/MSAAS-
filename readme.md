@@ -2,7 +2,7 @@
 A Python-based console application to track student attendance and ensure 75% minimum attendance compliance.
 
 
-**The following code file has not been altered logically; it has only been formatted using AI for better readability and compliance with the teacher’s guidelines.**
+# **The following code file has not been altered logically; it has only been formatted using AI for better readability and compliance with the teacher’s guidelines.**
 
 
 ## Project Structure
